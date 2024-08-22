@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-<!--
-**nataliafajardochaves/nataliafajardochaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Data Analyst
+6+ years working in data analytics and business intelligence for marketing and operations paired with consultancy experience across various industries.  
 
-Here are some ideas to get you started:
+👩🏻‍💻 Data manipulation and analysis with Python, SQL and Excel.  
+📊 Data visualization and storytelling using Tableau, Power BI, and Looker Studio.  
+🧩 Database management with SQL Server Management Studio (SSMS).  
+👩🏻‍🎓 Currently a postgraduate student in Business Analytics.
+
+Visit my [LinkedIn](https://www.linkedin.com/in/nataliafajardochaves/) profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
